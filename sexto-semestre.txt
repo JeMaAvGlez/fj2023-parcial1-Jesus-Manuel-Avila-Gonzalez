@@ -1,0 +1,8 @@
+Metodologia de Investigacion
+Ambientes Colaborativos y Control de Versiones GIT
+Pruebas de Software
+Temas Selectos de Bases de Datos
+Inteligencia de Negocios
+Sistemas para la Toma de Decisiones
+Aplicaciones WEB Avanzadas
+Criptografia
